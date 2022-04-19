@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/matMultip.dir/matMultip.c.o  -o matMultip -pthread 
