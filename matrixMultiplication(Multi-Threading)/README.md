@@ -12,11 +12,7 @@ A parallelized version of matrix multiplication can be done using one of these t
 
 How to run and compile :
 
--put your file.c in a directory and create file CMakeLists.txt and put some lines
-
-
-in it and then open the terminal from this directory
-
+-put your file.c in a directory and create file CMakeLists.txt and put some lines in it and then open the terminal from this directory
 
 Steps
 
@@ -31,3 +27,4 @@ Steps
   Then after that you will be able to run your program from command
 
   ● $./matMultip ../test/file_name1../test/file_name1../test/outputfile_name
+  
